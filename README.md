@@ -237,3 +237,4 @@ Model will be saved in tf-lite-models/
 
 <img width="1920" height="1020" alt="Screenshot 2025-07-23 111354" src="https://github.com/user-attachments/assets/b3d23bce-eb6c-49a3-814d-c05c4049b934" />
 ![Uploading Screenshot 2025-07-23 111354.png…]()
+<img width="1920" height="1020" alt="Screenshot 2025-07-23 112530" src="https://github.com/user-attachments/assets/ca747df1-e78d-4f35-8d6e-a3fa396fdfab" />
